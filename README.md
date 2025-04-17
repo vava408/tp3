@@ -1,1 +1,10 @@
-[README.md](https://github.com/user-attachments/files/19794488/README.md)
+Nom : Lemaitre Noël 
+
+Groupe : Groupe 4
+
+Année : 1er
+
+IUT Le Havre - Cours GIT
+
+Compte-rendu TP1 Introduction GIT
+Dans ce TP on apprend à travailler avec git. Et a mettre a jours notre git
